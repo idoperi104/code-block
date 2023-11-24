@@ -1,0 +1,6 @@
+[submodule "code-block-frontend"]
+	path = code-block-frontend
+	url = https://github.com/idoperi104/code-block-frontend.git
+[submodule "code-block-backend"]
+	path = code-block-backend
+	url = https://github.com/idoperi104/code-block-backend.git
